@@ -71,7 +71,7 @@ Climate change impacts on watersheds can potentially exacerbate water scarcity i
 ## Reproduce my experiment
 This experiment relies upon a modeling chain to develop the climate-informed hydropower projections.
 
-[modeling_chain_flowchart](https://github.com/9505-PNNL/broman-etal_2024_erl/bin/modeling_chain_flowchart.png)
+[modeling_chain_flowchart](hhttps://github.com/9505-PNNL/broman-etal_2024_erl/tree/main/bin/modeling_chain_flowchart.png)
 
 
 
